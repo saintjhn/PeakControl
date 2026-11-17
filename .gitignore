@@ -1,0 +1,19 @@
+# Archivos generados por Projucer (se regeneran al abrir el .jucer)
+Builds/
+JuceLibraryCode/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.ncb
+*.sdf
+x64/
+Debug/
+Release/
+
+# Binarios: se publican en GitHub Releases, no en el repositorio
+*.vst3
+*.dll
+*.exe
+*.zip
