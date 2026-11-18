@@ -3,7 +3,7 @@
 <JUCERPROJECT id="U6PAHK" name="PeakControl_VST3" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" pluginFormats="buildVST3"
               pluginManufacturer="PeakControl Audio" pluginName="PeakControl"
-              pluginManufacturerCode="PkAu" pluginCode="PkCt" version="0.1.0">
+              pluginManufacturerCode="PkAu" pluginCode="PkCt" version="0.2.0">
   <MAINGROUP id="NYqsnn" name="PeakControl_VST3">
     <GROUP id="{364A73FF-7B68-804A-14C3-E32C415B54EF}" name="Source">
       <FILE id="JzfIWZ" name="PluginProcessor.cpp" compile="1" resource="0"
